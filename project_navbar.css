@@ -1,0 +1,39 @@
+.navbar-format{
+    background-color: lightseagreen;
+    padding: 3px;
+    border-radius: 20px;
+}
+
+.agar-rapih>li{
+    display: inline-block;
+    list-style-type: square;
+    margin-right: 40px;
+}
+
+.format-kata-didalem-navbar{
+    color: white;
+}
+
+.posisi-nya-tengah{
+    text-align: center;
+    color: olive;
+    font-family: 'Shadows Into Light',cursive;
+}
+
+.gambar-ditengah{
+    float: right;
+    width: 55%;
+    border-radius: 100px;
+    margin-right: 50px;
+}
+.grid{
+    width: 70%;
+    float: left;
+    border: 2px olivedrab;
+    margin: auto;
+    padding: auto;
+}
+
+* {
+    box-sizing: border-box;
+}
